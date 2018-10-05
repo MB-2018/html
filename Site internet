@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> Lycée Jean Baptiste Dumas </title>
+</head>
+
+<body>
+<h2> Sommaire: </h2> <br/>
+- <a href="page1.html">page 1</a><br/> 
+- <a href="page2.html">page 2</a><br/>
+- <a href="page3.html">page 3</a><br/>
+<img src= "http://www.objectifgard.com/wp-content/uploads/2016/06/P1230466-e1466079169225-800x441.jpg" alt= "Le lycée">
+</body>
+</html>
