@@ -1,0 +1,19 @@
+<html>
+<head>
+<title> Lycée Jean-Baptiste Dumas </title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta name="Language" content="fr">
+<link rel="stylesheet" media="screen" type="text/css" title="Lycée Jean-Baptiste Dumas" href="style.css" />
+</head>
+
+<body>
+	<h1> Lycée Jean-Baptiste Dumas</h1>
+		<h2> Sommaire : </h2>
+			<ul id="liste1">
+				<li><a href="page1.html">L'histoire de JBD</a></li>
+				<li><a href="page2.html">Les enseignements d'exploration</a></li>
+				<li><a href="page3.html">Emplacement</a></li>
+			</ul>
+	<img src= "http://www.objectifgard.com/wp-content/uploads/2016/06/P1230466-e1466079169225-800x441.jpg" alt= "Le lycée">
+</body>
+</html>
