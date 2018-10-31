@@ -1,0 +1,21 @@
+body
+{
+font-family: Verdana, sans-serif;
+font-size: 120%;
+color: rgb(105,105,105);
+/*background-color: rgb(192,192,192);*/
+background-color: rgb(222,184,135);
+text-align: center;
+}
+#liste1
+{
+margin-left: 500px;
+font-size: 16 px;
+text-align: left;
+}
+#image1
+{
+	height: 200px;
+	width: 400px;
+	border: 3px solid rgb(255,255,255);
+}
