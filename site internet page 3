@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> Lycée Jean-Baptiste Dumas </title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta name="Language" content="fr">
+<link rel="stylesheet" media="screen" type="text/css" title="Lycée Jean-Baptiste Dumas" href="style.css" />
+</head>
+
+<body>
+	<h1>L'emplacement</h1>
+		<iframe src="https://www.google.com/maps/d/embed?mid=1YkO-KX4E0cEESR9DDvRhci-s3O5L_Vtc" width="640" height="480"></iframe>
+</body>
+</html>
